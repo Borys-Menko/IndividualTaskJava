@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_232" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Doctor">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1969-01-19</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>John</string>
+    </void>
+    <void property="lastName">
+     <string>Lennon</string>
+    </void>
+    <void property="specialization">
+     <string>Therapist</string>
+    </void>
+    <void property="taxNumber">
+     <int>129</int>
+    </void>
+    <void property="yearOfStartPractice">
+     <int>1990</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Person">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1986-05-01</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Dima</string>
+    </void>
+    <void property="lastName">
+     <string>Rubachok</string>
+    </void>
+    <void property="taxNumber">
+     <int>104</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Person">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1990-11-14</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Frodo</string>
+    </void>
+    <void property="lastName">
+     <string>Begins</string>
+    </void>
+    <void property="taxNumber">
+     <int>102</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Person">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1980-02-12</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Dima</string>
+    </void>
+    <void property="lastName">
+     <string>Kardash</string>
+    </void>
+    <void property="taxNumber">
+     <int>101</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Person">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1982-07-01</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Sebastian</string>
+    </void>
+    <void property="lastName">
+     <string>Lindel</string>
+    </void>
+    <void property="taxNumber">
+     <int>109</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Doctor">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1967-09-17</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>John</string>
+    </void>
+    <void property="lastName">
+     <string>Konor</string>
+    </void>
+    <void property="specialization">
+     <string>Therapist</string>
+    </void>
+    <void property="taxNumber">
+     <int>111</int>
+    </void>
+    <void property="yearOfStartPractice">
+     <int>1990</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Doctor">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1965-04-22</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Dave</string>
+    </void>
+    <void property="lastName">
+     <string>Batista</string>
+    </void>
+    <void property="specialization">
+     <string>Cardiologist</string>
+    </void>
+    <void property="taxNumber">
+     <int>143</int>
+    </void>
+    <void property="yearOfStartPractice">
+     <int>1990</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Doctor">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1976-01-04</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Anderson</string>
+    </void>
+    <void property="lastName">
+     <string>Silva</string>
+    </void>
+    <void property="specialization">
+     <string>Neurology</string>
+    </void>
+    <void property="taxNumber">
+     <int>128</int>
+    </void>
+    <void property="yearOfStartPractice">
+     <int>1990</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Doctor">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1972-06-16</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Bill</string>
+    </void>
+    <void property="lastName">
+     <string>Gates</string>
+    </void>
+    <void property="specialization">
+     <string>Gynecologist</string>
+    </void>
+    <void property="taxNumber">
+     <int>133</int>
+    </void>
+    <void property="yearOfStartPractice">
+     <int>1990</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Doctor">
+    <void property="birthDate">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1970-11-25</string>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Russel</string>
+    </void>
+    <void property="lastName">
+     <string>Crow</string>
+    </void>
+    <void property="specialization">
+     <string>Neurology</string>
+    </void>
+    <void property="taxNumber">
+     <int>141</int>
+    </void>
+    <void property="yearOfStartPractice">
+     <int>1990</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

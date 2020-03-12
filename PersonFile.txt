@@ -1,0 +1,1 @@
+Person{taxNumber=104, firstName='Dima', lastName='Rubachok', birthDate=1986-05-01}
